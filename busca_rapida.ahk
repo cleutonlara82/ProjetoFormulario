@@ -9,8 +9,6 @@ global PastaPadrao := "C:\PastaPadrao" ; Altere para a pasta padrão desejada
 
 !a::
 {
-    activeWindow := WinGetID("A")
-
     ; 1. Melhoria: Copiar texto automaticamente (sem precisar dar Ctrl+C antes)
     ClipSaved := ClipboardAll() ; Salva o clipboard original
     A_Clipboard := "" ; Limpa o clipboard
@@ -29,10 +27,10 @@ global PastaPadrao := "C:\PastaPadrao" ; Altere para a pasta padrão desejada
 
     ; Remove pontos e traços
     texto := RegExReplace(texto, "[\.\-]")
-    textoBusca := texto ; Variável para usar na busca sem sobrescrever permanentemente o clipboard
+    textoBusca := texto
 
-    ; Restaura o clipboard original para não atrapalhar o usuário
-    A_Clipboard := ClipSaved
+    ; Mantém o texto formatado no clipboard para que o usuário possa colar no OneCommander
+    A_Clipboard := textoBusca
 
     ; Lê preferências salvas (o valor padrão é o terceiro parâmetro em v2)
     explorerChoice := IniRead(iniFile, "Preferencias", "Explorer", 1)
@@ -86,14 +84,19 @@ ExecutarBusca(guiObj, radExp1, radPasta1, textoBusca)
     ; 3. Melhoria: Executa a busca real
     if (escolhaExplorador = 1)
     {
-        ; Exemplo de comando para abrir OneCommander (ajuste o caminho do executável se necessário)
-        Run('"C:\Program Files\OneCommander\OneCommander.exe" "' . caminhoPasta . '"')
+        ocPath := "C:\Program Files\OneCommander\OneCommander.exe"
+        if FileExist(ocPath) {
+            Run('"' . ocPath . '" "' . caminhoPasta . '"')
+        } else {
+            MsgBox("OneCommander não foi encontrado no caminho:`n" . ocPath, "Erro de Execução", 16)
+        }
     }
     else if (escolhaExplorador = 2)
     {
         ; Usa a URI search-ms para realizar a busca nativa no Windows Explorer
+        ; Executa a URI diretamente para evitar erros de parsing do explorer.exe com aspas em v2
         query := "search-ms:query=" . textoBusca . "&crumb=location:" . caminhoPasta
-        Run('explorer.exe "' . query . '"')
+        Run(query)
     }
 
     guiObj.Destroy()
