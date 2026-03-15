@@ -30,7 +30,12 @@ GetPDFPathFromProcess(pid) {
     return ""
 }
 
-#HotIf WinActive("PDF24")
+; Criar um grupo para as janelas do PDF24 (Reader ou Creator) para garantir que o atalho funcione
+GroupAdd "PDF24Group", "ahk_exe pdf24-Reader.exe"
+GroupAdd "PDF24Group", "ahk_exe pdf24.exe"
+GroupAdd "PDF24Group", "PDF24"
+
+#HotIf WinActive("ahk_group PDF24Group")
 F12::
 {
     ; Obter o PID da janela ativa do PDF24
