@@ -52,13 +52,11 @@ F12::
         return
     }
 
-    ; Caminho configurado do executável do Acrobat DC
-    acrobatExecutablePath := "C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
+    ; Copiar o caminho para a área de transferência
+    A_Clipboard := filePath
 
-    if (acrobatExecutablePath != "") {
-        Run('"' . acrobatExecutablePath . '" "' . filePath . '"')
-    } else {
-        MsgBox("Por favor, edite o script e configure a variável 'acrobatExecutablePath' com o caminho do Acrobat Reader.", "Configuração Necessária", "Iconi")
-    }
+    ; Mostrar um pequeno balão informando o sucesso
+    ToolTip("Caminho copiado para a área de transferência!`n" . filePath)
+    SetTimer () => ToolTip(), -3000 ; Remove o balão após 3 segundos
 }
 #HotIf
