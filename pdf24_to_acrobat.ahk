@@ -47,9 +47,8 @@ F12::
         return
     }
 
-    ; ATENÇÃO: Configure o caminho do executável do seu Acrobat Reader ou Acrobat DC aqui.
-    ; Exemplo: acrobatExecutablePath := "C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
-    acrobatExecutablePath := ""
+    ; Caminho configurado do executável do Acrobat DC
+    acrobatExecutablePath := "C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
 
     if (acrobatExecutablePath != "") {
         Run('"' . acrobatExecutablePath . '" "' . filePath . '"')
