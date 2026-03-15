@@ -39,8 +39,11 @@ F12::
     ; Extrair o caminho do arquivo
     filePath := GetPDFPathFromProcess(activePid)
 
-    if (filePath == "" or not FileExist(filePath)) {
-        MsgBox("Não foi possível identificar o caminho do arquivo PDF aberto automaticamente.", "Aviso", "Iconi")
+    ; Remover eventuais aspas duplas adicionais do caminho
+    filePath := StrReplace(filePath, '"', "")
+
+    if (filePath == "" or !FileExist(filePath)) {
+        MsgBox("Não foi possível identificar o caminho do arquivo PDF aberto automaticamente.`n`nCaminho obtido: " . filePath, "Aviso", "Iconi")
         return
     }
 
