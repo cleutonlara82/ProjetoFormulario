@@ -323,7 +323,7 @@ AoClicarCheckbox(ctrl, info) {
 ; MÓDULO 3: EDITOR AVANÇADO E GESTOR DE CONTEÚDO
 ; ==========================================
 AbrirEditorAmigavel(*) {
-    Global G_Edit, Busca_Ed, LV_Titulos, Titulo_Edit, Texto_Edit, LV_Arquivos
+    Global G_Edit, Busca_Ed, LV_Titulos, Titulo_Edit, Texto_Edit, LV_Arquivos, LV_Partes, TopicoCarregado
 
     if IsSet(G_Edit) && G_Edit
         G_Edit.Destroy()
@@ -969,9 +969,9 @@ AtualizarTopsOrdem(*) {
     if (idxAba > 0 && idxAba <= DadosOrdem.Length) {
         for t in DadosOrdem[idxAba].tops
             LB_Ord_Tops.Add([t.tit])
+        if (DadosOrdem[idxAba].tops.Length > 0)
+            LB_Ord_Tops.Choose(1)
     }
-    if (DadosOrdem[idxAba].tops.Length > 0)
-        LB_Ord_Tops.Choose(1)
     AtualizarSubsOrdem()
 }
 
