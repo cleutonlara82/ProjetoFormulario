@@ -1,0 +1,360 @@
+TITULO::Motivo(s) do(a)
+Situação e opções para Motivo(s) do(a) .
+SUBTITULO::Perda da Qualidade de Segurado
+Da Requerente ter perdido a Qualidade de Segurada, em
+SUBTITULO::Não comprovação da condição de Dependente
+Do(a) Requerente não comprovar o restabelecimento do vínculo conjugal, posterior à declaração de separação de fato registrada em requerimento anterior, nos termos do art. 374 da Instrução Normativa nº 128/2022, e art. 504 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Filho(a) Menor
+Houve a marcação da opção: Filho(a) Menor.
+SUBTITULO::Filho(a) Maior Inválido
+Houve a marcação da opção: Filho(a) Maior Inválido.
+SUBTITULO::Pai/Mãe/Irmã(o)
+Houve a marcação da opção: Pai/Mãe/Irmã(o).
+SUBTITULO::Companheiro(a)
+Houve a marcação da opção: Companheiro(a).
+SUBTITULO::Cônjuge
+Do(a) Requerente não comprovar o restabelecimento do vínculo conjugal, posterior à declaração de separação de fato registrada em requerimento anterior, nos termos do art. 374 da Instrução Normativa nº 128/2022, e art. 504 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Ex-Cônjuge
+Houve a marcação da opção: Ex-Cônjuge.
+SUBTITULO::Não comprovou restabelecimento da união conjugal, após declarar separação de fato
+Do(a) Requerente não comprovar o restabelecimento do vínculo conjugal, posterior à declaração de separação de fato registrada em requerimento anterior, nos termos do art. 374 da Instrução Normativa nº 128/2022, e art. 504 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Não ficar comprovado o exercício de Atividade Rural pelo(a) Instituidor(a)
+De não ficar comprovada a condição de Trabalhadora Rural da Requerente no período imediatamente anterior ao fato gerador, nos termos do §2º, art. 93 do Decreto nº 3.048/99
+SUBTITULO::Não comprovação de filiação do Instituidor ao RGPS
+De não ficar comprovada a filiação do(a) Instituidor(a) ao RGPS na data do fato gerador, nos termos dos arts. 9º e 10 do Decreto nº 3.048/99
+SUBTITULO::Recebimento de Outro Benefício
+Do(a) Requerente ser titular de outro benefício no âmbito da Seguridade Social ou outro regime na Data de Entrada do Requerimento - DER, sob E/NB
+SUBTITULO::Já recebe benefício referente ao mesmo fato gerador
+De ter sido verificado, em consulta ao Sistema Único de Benefícios - SUB, que a Requerente já foi Titular de benefício de Salário-Maternidade anterior referente ao mesmo fato-gerador
+SUBTITULO::Requerimento realizado após prazo de duração
+Do requerimento ter sido realizado após o prazo de duração de quatro meses, considerando o casamento/união estável ter iniciado a menos de dois anos antes do óbito do Instituidor, ou do óbito ter ocorrido sem que o Instituidor tenha vertido ao menos dezoito contribuições mensais, nos termos da alínea \
+SUBTITULO::Falta de Carência
+Da Requerente não atingir a Carência exigida, tendo comprovado apenas
+SUBTITULO::Falta de Carência após Perda da Qualidade de Segurado
+Da Requerente não atingir a Carência exigida após ter perdido a Qualidade de Segurada, nos termos do art. 27-A da Lei nº 8.213/91, tendo completado apenas
+SUBTITULO::Último Salário de Contribuição / Renda Média superior ao limite
+Do último Salário de Contribuição / Renda Média do(a) Instituidor(a) ser superior ao limite definido no caput do art. 116 do Decreto nº 3.048/99 / §3º do art. 80 da Lei nº 8.213/91, apurada em R$
+SUBTITULO::Não comprova a Reclusão
+De não ficar comprovada a Reclusão do(a) Instituidor(a), nos termos do §2º, art. 116 do Decreto nº 3.048/99
+SUBTITULO::Reclusão em Regime Aberto ou Semi-Aberto
+Do Regime de Prisão do(a) Instituidor(a) não ser Fechado, como exigido no caput do art. 80 da Lei nº 8.213/91
+SUBTITULO::Requerimento após a soltura
+Do Requerimento ter sido realizado após a soltura do(a) Instituidor(a), conforme vedação contida no art. 119 do Decreto nº 3.048/99
+SUBTITULO::Incluir texto explicativo para Renovação de Declaração de Cárcere
+Houve a marcação da opção: Incluir texto explicativo para Renovação de Declaração de Cárcere.
+SUBTITULO::Não ficar comprovado o exercício de Atividade Rural pelo(a) Requerente
+De não ficar comprovada a condição de Trabalhadora Rural da Requerente no período imediatamente anterior ao fato gerador, nos termos do §2º, art. 93 do Decreto nº 3.048/99
+SUBTITULO::Não comparecimento à avaliação da Perícia Médica
+Do(a) Requerente não ter comparecido à avaliação da Perícia Médica no local/data/hora agendados, procedimento indispensável para reconhecimento da incapacidade para o trabalho, nos termos do art. 71 do Decreto nº 3.048/99
+SUBTITULO::Avaliação da Perícia Médica contrária
+De não ficar reconhecida a redução da capacidade laborativa, decorrente de sequela definitiva resultante de consolidação das lesões do acidente de trabalho, nos termos do art. 104 do Decreto nº 3.048/99
+SUBTITULO::Data de Início da Incapacidade - DII anterior à filiação ao RGPS
+Da avaliação da Perícia Médica ter fixado a Data de Início da Incapacidade - DII em data anterior ao ingresso do(a) Requerente no RGPS, nos termos do §1º, art. 71 do Decreto nº 3.048/99
+SUBTITULO::Não redução da capacidade laborativa
+De não ficar reconhecida a redução da capacidade laborativa, decorrente de sequela definitiva resultante de consolidação das lesões do acidente de trabalho, nos termos do art. 104 do Decreto nº 3.048/99
+SUBTITULO::Recebimento de Outro Benefício - Aposentadoria
+Do(a) Requerente ser titular de outro benefício no âmbito da Seguridade Social ou outro regime na Data de Entrada do Requerimento - DER, sob E/NB
+SUBTITULO::Não tem direito pelas novas regras, não se enquadra na regra de transição, não tem direito adquirido na regra anterior
+Do(a) Requerente não completar os requisitos para a Aposentadoria do Professor introduzidos pela Emenda Constitucional nº 103/2019 (Idade: 57 anos (mulher) / 60 anos (homem), Tempo de Magistério: 25 anos, Carência: 180 meses), nos termos do art. 54 do Decreto nº 3.048/99; não se enquadrar em nenhuma das Regras de Transição instituídas pela mesma Emenda Constitucional nº 103/2019; e não possuir direito adquirido ao benefício na sua regra anterior, descrita na alínea \
+SUBTITULO::Falta de Idade
+Do(a) Requerente não ter completado a idade mínima exigida para a sua concessão, nos termos do caput do art. 56 do Decreto nº 3.048/99
+SUBTITULO::Não comprovação da condição de Deficiente (LC nº 142/13)
+Do(a) Requerente não comprovar a condição de pessoa com Deficiência em avaliação médica e funcional, para fins da LC nº 142/2013, nos termos do art. 70-A do Decreto nº 3.048/99
+SUBTITULO::Não completa os requisitos mínimos (LC nº 142/13)
+Do(a) Requerente não cumprir os requisitos mínimos necessários para a Aposentadoria por Tempo de Contribuição da Pessoa com Deficiência, para fins da LC nº 142/2013 (Tempo de Contribuição: 20 anos (mulher) / 25 anos (homem), Carência: 180 contribuições), nos termos do art. 70-B do Decreto nº 3.048/99
+SUBTITULO::Perda da Qualidade de Trabalhador Rural
+Da Requerente ter perdido a Qualidade de Segurada, em
+SUBTITULO::Não tem direito pelas novas regras, não se enquadra nas regras de transição, não tem direito adquirido nas regras anteriores
+Do(a) Requerente não completar os requisitos para a Aposentadoria do Professor introduzidos pela Emenda Constitucional nº 103/2019 (Idade: 57 anos (mulher) / 60 anos (homem), Tempo de Magistério: 25 anos, Carência: 180 meses), nos termos do art. 54 do Decreto nº 3.048/99; não se enquadrar em nenhuma das Regras de Transição instituídas pela mesma Emenda Constitucional nº 103/2019; e não possuir direito adquirido ao benefício na sua regra anterior, descrita na alínea \
+SUBTITULO::Falta de Tempo de Contribuição
+Do(a) Requerente não comprovar atividade em funções de Magistério pelo período mínimo exigido de 30 anos (homens) ou 25 anos (mulheres), tendo reconhecido em tal condição apenas
+SUBTITULO::Não tem direito pelas novas regras, não se enquadra na regra de transição, não tem direito adquirido nas regras anteriores
+Do(a) Requerente não completar os requisitos para a Aposentadoria do Professor introduzidos pela Emenda Constitucional nº 103/2019 (Idade: 57 anos (mulher) / 60 anos (homem), Tempo de Magistério: 25 anos, Carência: 180 meses), nos termos do art. 54 do Decreto nº 3.048/99; não se enquadrar em nenhuma das Regras de Transição instituídas pela mesma Emenda Constitucional nº 103/2019; e não possuir direito adquirido ao benefício na sua regra anterior, descrita na alínea \
+SUBTITULO::Não comprova Atividade Especial por 15/20/25 Anos
+Do(a) Requerente não comprovar atividade em funções de Magistério pelo período mínimo exigido de 30 anos (homens) ou 25 anos (mulheres), tendo reconhecido em tal condição apenas
+SUBTITULO::Não comprova função de Magistério por 30/25 anos
+Do(a) Requerente não comprovar atividade em funções de Magistério pelo período mínimo exigido de 30 anos (homens) ou 25 anos (mulheres), tendo reconhecido em tal condição apenas
+SUBTITULO::Não ficar comprovado o exercício de Atividade Rural pela Requerente
+De não ficar comprovada a condição de Trabalhadora Rural da Requerente no período imediatamente anterior ao fato gerador, nos termos do §2º, art. 93 do Decreto nº 3.048/99
+SUBTITULO::Não comprovação de filiação ao RGPS
+De não ficar comprovada a condição de filiada ao RGPS da Requerente na data do fato gerador, nos termos do art. 71 da Lei nº 8.213/91
+SUBTITULO::Não comprovação do fato gerador (28 dias / Parto / Adoção / Natimorto / Aborto)
+Da Requerente não comprovar o fato gerador (28 dias antes do Parto: Atestado Médico; Parto: Certidão de Nascimento; Adoção: Termo de Guarda; Aborto: Atestado Médico específico), nos termos dos arts. 93 e 93-A do Decreto nº 3.048/99
+SUBTITULO::Não afastamento da atividade remunerada
+Da Requerente não ter se afastado da sua atividade remunerada após o fato gerador, como exigido pelo art. 71-C da Lei nº 8.213/91
+SUBTITULO::Requerimento antes do Parto, para segurada em período de graça
+Do Requerimento ter sido realizado antes do parto, com a Requerente em período de manutenção da qualidade de segurada, nos termos do §3º, inc. III, art. 101 do Decreto nº 3.048/99
+SUBTITULO::Requerente Empregada na data do fato gerador
+Da Requerente manter a condição de Empregada na data do fato gerador, situação em que a responsabilidade pelo pagamento do benefício é da Empresa Empregadora, nos termos do §1º, art. 72 da Lei nº 8.213/91
+SUBTITULO::Requerente já recebeu benefício referente ao mesmo fato gerador
+De ter sido verificado, em consulta ao Sistema Único de Benefícios - SUB, que a Requerente já foi Titular de benefício de Salário-Maternidade anterior referente ao mesmo fato-gerador
+SUBTITULO::Criança com mais de 12 anos na data da adoção
+Da criança já ter mais de doze anos de idade na data da adoção, nos termos do art. 93-A do Decreto nº 3.048/99
+SUBTITULO::Não comprovação como Cônjuge/Companheiro sobrevivente
+Do(a) Requerente não comprovar a condição de Cônjuge/Companheiro sobrevivente em relação à Segurada falecida, nos termos do art. 93-B do Decreto nº 3.048/99
+SUBTITULO::Falta de Qualidade de Segurado do Cônjuge/Companheiro sobrevivente
+Da falta de Qualidade de Segurado do(a) Requerente Cônjuge/Companheiro sobrevivente, como exigido pelo art. 93-B do Decreto nº 3.048/99
+SUBTITULO::Prescrição - Requerimento após o prazo de 5 anos do fato gerador
+Da prescrição do direito ao benefício, considerando a realização do requerimento após o prazo de 5 (cinco) anos a contar da data do fato gerador, nos termos do §1º, art. 347 do Decreto nº 3.048/99, e §5º, art. 357 da Instrução Normativa nº 128/2022
+SUBTITULO::Óbito do Requerente antes da análise, dispensada análise dos demais requisitos
+Do óbito do Requerente, sendo dispensada a avaliação dos demais requisitos, nos termos do § único, art. 15 da Portaria Conjunta nº 3, de 21/09/2018
+SUBTITULO::Renda per capita superior a 1/4 do Salário Mínimo
+Do último Salário de Contribuição / Renda Média do(a) Instituidor(a) ser superior ao limite definido no caput do art. 116 do Decreto nº 3.048/99 / §3º do art. 80 da Lei nº 8.213/91, apurada em R$
+SUBTITULO::Não comprovou condições para ampliação do critério de Renda (§11-A, art. 20, Lei 8.742/93)
+Da Renda per Capita do Grupo Familiar ser superior a 1/4 do Salário Mínimo, apurada em R$
+SUBTITULO::Falta de Inscrição/Atualização do CadÚnico
+Da inscrição do Grupo Familiar no Cadastro Único não existir ou estar desatualizada há mais de 2 anos, em desacordo com o exigido no §2º e caput do art. 12 do Decreto nº 6.214/07
+SUBTITULO::Não comprovação da condição de Deficiente após Avaliações
+Do(a) Requerente não atender ao critério de deficiência para acesso ao benefício, nos termos dos §§ 2º e 6º, art. 20 da Lei nº 8.742/93
+SUBTITULO::Não comparecimento às Avaliações agendadas
+Do(a) Requerente não ter comparecido à Avaliação Social e/ou Médico-Pericial, procedimentos indispensáveis para verificação do direito ao benefício, nos termos do §1º e caput, art. 16 do Decreto nº 6.214/07
+SUBTITULO::Deixou de informar dados básicos necessários para emissão da CTC
+Da não informação de dados básicos necessários para sua emissão, nos termos do art. 544 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Não comprovação de vinculação a RPPS
+Da não comprovação de vinculação do(a) Requerente a Regime Próprio de Previdência - RPPS, nos termos do art. 2º da Portaria MTP nº 1.467/2022, e art. 542 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Períodos já utilizados em Aposentadoria
+Da impossibilidade de certificação de períodos de vinculação ao Regime Geral da Previdência Social - RGPS, considerando já terem sido aproveitados na concessão de Aposentadoria, nos termos do inc. II, art. 195 da Portaria MTP nº 1.467/2022, e art. 550 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Já possui CTC Concedida
+Houve a marcação da opção: Já possui CTC Concedida.
+SUBTITULO::Incluir texto explicativo para emissão de CTC
+Houve a marcação da opção: Incluir texto explicativo para emissão de CTC.
+SUBTITULO::Opção por não cessação de Auxílio-Acidente, Auxílio-Suplementar ou Abono de Permanência
+Houve a marcação da opção: Opção por não cessação de Auxílio-Acidente, Auxílio-Suplementar ou Abono de Permanência.
+SUBTITULO::Comprovada Qualidade de Segurado do(a) Instituidor(a)
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovada a condição de Dependente do(a) Requerente
+Ter comprovado a existência de períodos de vinculação ao Regime Geral da Previdência Social - RGPS passíveis de aproveitamento em contagem recíproca
+SUBTITULO::Cota com duração de 4 (quatro) meses
+Houve a marcação da opção: Cota com duração de 4 (quatro) meses.
+SUBTITULO::Há Requerente(s) que não comprovaram a condição de Dependente - Indeferimento Parcial
+Houve a marcação da opção: Há Requerente(s) que não comprovaram a condição de Dependente - Indeferimento Parcial.
+SUBTITULO::Reconhecido nexo entre o Acidente e a Causa Mortis, pela Perícia Médica
+Ter comprovado a Carência em número de meses de Atividade Rural mínima exigida na Data de Entrada do Requerimento - DER
+SUBTITULO::Incluir texto explicativo sobre cálculo do valor da Pensão
+Ter completado a Idade mínima exigida, e a Carência em número de contribuições na condição de pessoa com deficiência exigida na Data de Entrada do Requerimento - DER, nos termos do art. 70-A, e §1º e caput, art. 70-C do Decreto nº 3.048/99
+SUBTITULO::Comprovada Qualidade de Segurado e Carência do(a) Instituidor(a), e Renda Média abaixo do limite
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovada a Qualidade de Segurado
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Completou a Carência em Contribuições
+Ter comprovado a existência de períodos de vinculação ao Regime Geral da Previdência Social - RGPS passíveis de aproveitamento em contagem recíproca
+SUBTITULO::Completou a Carência em meses de Atividade Rural
+Ter comprovado a existência de períodos de vinculação ao Regime Geral da Previdência Social - RGPS passíveis de aproveitamento em contagem recíproca
+SUBTITULO::Comprovada a Incapacidade
+Ter comprovado a Carência em número de meses de Atividade Rural mínima exigida na Data de Entrada do Requerimento - DER
+SUBTITULO::Confirmada redução da capacidade laborativa
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Completou a Idade mínima
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Completou quinze anos de Contribuição
+Ter comprovado a existência de períodos de vinculação ao Regime Geral da Previdência Social - RGPS passíveis de aproveitamento em contagem recíproca
+SUBTITULO::Completou a Idade e a Carência na condição de Deficiente (LC nº 142/13)
+Ter completado a Idade mínima exigida, e a Carência em número de contribuições na condição de pessoa com deficiência exigida na Data de Entrada do Requerimento - DER, nos termos do art. 70-A, e §1º e caput, art. 70-C do Decreto nº 3.048/99
+SUBTITULO::Comprovada a Carência de 10 Contribuições
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovada a Carência de 10 Meses de Atividade Rural
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovou a inscrição no CadÚnico (atualizado), a Renda per Capita inferior a 1/4 do Salário Mínimo, e a Idade mínima de 65 Anos
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovou a inscrição no CadÚnico (atualizado), a Renda per Capita inferior a 1/4 do Salário Mínimo, e a condição de Deficiente
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovou a vinculação a RPPS
+Ter comprovado a vinculação a Regime Próprio de Previdência - RPPS
+SUBTITULO::Comprovou período(s) de contribuição ao RGPS a serem certificados
+Ter comprovado a existência de períodos de vinculação ao Regime Geral da Previdência Social - RGPS passíveis de aproveitamento em contagem recíproca
+SUBTITULO::Exigência de documentos
+Da necessidade de apresentação de outros documentos
+SUBTITULO::Necessidade de procedimentos adicionais
+Da necessidade de realização de procedimentos adicionais
+SUBTITULO::Sobrestado
+Da necessidade de permanecer sobrestado
+SUBTITULO::Aguarda Cópia de Processo
+Da solicitação de cópia de processo anterior, nos termos dos §§4º e 5º do art. 60 da Portaria Dirben/INSS nº 993/2022 (Livro IV - Processo Administrativo Previdenciário)
+
+TITULO::Vínculo(s) Empregatício(s)
+Situação e opções para Vínculo(s) Empregatício(s).
+SUBTITULO::Carteira Profissional - CP ou Carteira de Trabalho - CTPS
+Houve a marcação da opção: Carteira Profissional - CP ou Carteira de Trabalho - CTPS.
+SUBTITULO::Declaração do Empregador + Ficha ou Livro de Registro de Empregados
+Houve a marcação da opção: Declaração do Empregador + Ficha ou Livro de Registro de Empregados.
+SUBTITULO::Contrato Individual de Trabalho
+Houve a marcação da opção: Contrato Individual de Trabalho.
+SUBTITULO::Acordo Coletivo de Trabalho
+Houve a marcação da opção: Acordo Coletivo de Trabalho.
+SUBTITULO::Termo de Rescisão do Contrato de Trabalho
+Houve a marcação da opção: Termo de Rescisão do Contrato de Trabalho.
+SUBTITULO::Extrato Analítico de FGTS
+Houve a marcação da opção: Extrato Analítico de FGTS.
+SUBTITULO::Recibos de Pagamento
+Houve a marcação da opção: Recibos de Pagamento.
+SUBTITULO::Declaração do Empregador + Cartão/Livro/Folha de Ponto
+Houve a marcação da opção: Declaração do Empregador + Cartão/Livro/Folha de Ponto.
+SUBTITULO::CTC - Certidão de Tempo de Contribuição
+Houve a marcação da opção: CTC - Certidão de Tempo de Contribuição.
+SUBTITULO::DTC - Declaração de Tempo de Contribuição
+Houve a marcação da opção: DTC - Declaração de Tempo de Contribuição.
+SUBTITULO::ATC - Averbação de Tempo de Contribuição
+Houve a marcação da opção: ATC - Averbação de Tempo de Contribuição.
+SUBTITULO::Outro(s) Documento(s)
+Houve a marcação da opção: Outro(s) Documento(s).
+SUBTITULO::Extrato de Contribuição encaminhado pelo Organismo de Ligação
+Houve a marcação da opção: Extrato de Contribuição encaminhado pelo Organismo de Ligação.
+SUBTITULO::Registro extemporâneo na CTPS ou outro documento
+Do registro correspondente ter sido realizado de forma extemporânea na CTPS ou outro documento comprobatório, nos termos do art. 19-B do Decreto nº 3.048/99
+SUBTITULO::Registro extemporâneo no CNIS
+Da extemporaneidade de sua informação no CNIS, nos termos do §2º, art. 19 do Decreto nº 3.048/99
+SUBTITULO::Documento apresentado não permite confirmação
+Da impossibilidade de confirmação de sua regularidade por meio de documento apresentado, decorrente da ausência de informação, emenda, rasura ou outro vício que o invalida para tal fim
+SUBTITULO::Remuneração inferior ao mínimo
+Da sua remuneração mensal ser inferior ao valor do limite mínimo do salário de contribuição, sem a devida complementação ou agrupamento, nos termos do §14, art. 195 da Constituição Federal, e art. 29 da Emenda Constitucional nº 103/2019
+SUBTITULO::Há vínculo concomitante com período(s) de débito
+Da concomitância com período(s) de débito, não sendo devida a certificação do período abrangido em nenhuma das atividades, nos termos do inciso VII, art. 513 da Instrução Normativa nº 128/2022, e §2º, art. 554 da Portaria Dirben/INSS nº 991/2022 (Livro II - Benefício)
+SUBTITULO::Solicitou cômputo do tempo de trabalho nos Estados Unidos
+Houve a marcação da opção: Solicitou cômputo do tempo de trabalho nos Estados Unidos.
+SUBTITULO::Benefício não previsto no Acordo Brasil - Estados Unidos
+Houve a marcação da opção: Benefício não previsto no Acordo Brasil - Estados Unidos.
+SUBTITULO::Solicitou cômputo do tempo de trabalho na Itália
+Houve a marcação da opção: Solicitou cômputo do tempo de trabalho na Itália.
+SUBTITULO::Benefício não previsto no Acordo Brasil - Itália
+Houve a marcação da opção: Benefício não previsto no Acordo Brasil - Itália.
+
+TITULO::Contribuições - Individual / Facultativa
+Situação e opções para Contribuições - Individual / Facultativa.
+SUBTITULO::Contribuições em atraso sem comprovar atividade
+O recolhimento das competências
+SUBTITULO::Contribuições em atraso após a Data de Entrada do Requerimento - DER
+O recolhimento das competências
+SUBTITULO::Reafirmação da DER dispensada
+Houve a marcação da opção: Reafirmação da DER dispensada.
+SUBTITULO::Contribuições em atraso não computadas para fins de carência
+O recolhimento das competências
+SUBTITULO::Contribuições abaixo do mínimo sem complementação
+O recolhimento das competências
+SUBTITULO::Complementação de contribuições dispensada
+Houve a marcação da opção: Complementação de contribuições dispensada.
+SUBTITULO::GFIPs extemporâneas
+O recolhimento das competências
+SUBTITULO::Contribuições de 5% ou 11%, não considerados no B42/CTC
+O recolhimento das competências
+SUBTITULO::Iniciou contribuições em atraso
+O recolhimento das competências
+SUBTITULO::Facultativo de Baixa Renda - FBR não validado
+O recolhimento como Facultativo de Baixa Renda - FBR das competências
+SUBTITULO::Reiniciou contribuições em atraso, após Perda da Qualidade de Segurado
+O recolhimento das competências
+SUBTITULO::Contribuições de 11% não consideradas no B42/CTC
+O recolhimento das competências
+SUBTITULO::Contribuições concomitantes com atividade de filiação obrigatória
+O recolhimento das competências
+
+TITULO::Atividade Especial
+Situação e opções para Atividade Especial.
+SUBTITULO::Por Categoria Profissional
+Por Categoria Profissional até 28/04/1995
+SUBTITULO::Por Exposição a Agentes Prejudiciais à Saúde
+Por exposição a agentes prejudiciais à saúde, conforme parecer da Perícia Médica
+SUBTITULO::Análise importada de NB Anterior
+Pelo aproveitamento de períodos analisados em requerimento anterior, importados para o presente benefício e com reanálise dispensada, nos termos do art. 270 da Instrução Normativa nº 128/2022
+SUBTITULO::Ausência de Agentes Prejudiciais à Saúde
+De não terem sido submetidos à análise da Perícia Médica, por conta da ausência de informação de exposição a agentes prejudiciais à saúde nos documentos apresentados, nos termos do art. 287 da Instrução Normativa nº 128/2022
+
+TITULO::Atividade Rural
+Situação e opções para Atividade Rural.
+SUBTITULO::Não há documentos ratificadores contemporâneos
+De inexistir cadastro em base governamental e/ou de não terem sido apresentados documentos contemporâneos válidos como Prova Material que permitissem ratificá-lo(s), nos termos dos arts. 115 e 116 da Instrução Normativa nº 128/2022, e art. 94 da Portaria Dirben/INSS nº 990/2022 (Livro I - Cadastro)
+SUBTITULO::Documentos em nome de terceiros não compõem o Grupo Familiar
+Dos documentos apresentados como Prova Material estarem em nome de terceiro que não compõe o grupo familiar, considerando o grau de parentesco entre o Titular dos documentos e o(a) Requerente, ou em razão do Casamento deste(a) último(a), nos termos dos incisos I e IV, §1º, art. 109 da Instrução Normativa nº 128/2022
+SUBTITULO::Exercício de Atividade Remunerada/Urbana, sem comprovação de retorno à Atividade Rural
+Do exercício intercalado de Atividade Remunerada / Urbana, sem a apresentação de prova de retorno do(a) Requerente ao exercício de atividade rural, nos termos do inc. V do §2º, art. 116 da Instrução Normativa nº 128/2022
+SUBTITULO::Área explorada superior a 4 Módulos Fiscais
+Da atividade ser desenvolvida em área superior a 4 (quatro) módulos fiscais, nos termos do item 1, alínea \
+SUBTITULO::Exercício de atividade Turística ou utilização de Mão de Obra
+Da descaracterização da condição de Segurado Especial, em função do exercício de Atividade Remunerada / Exploração Turística / Utilização de Mão de Obra à razão superior a 120 dias/ano, nos termos das alíneas \
+SUBTITULO::Não participa ativamente das atividades rurais do Grupo Familiar
+Do(a) Requerente não participar ativamente das atividades rurais do grupo familiar, situação em que fica descaracterizada a condição de Segurado Especial, nos termos do §6º, art. 11 da Lei nº 8.213/91
+SUBTITULO::Outorga em contrato de mais de 50% do imóvel e/ou sem atividade rural pelos contratantes
+Da descaracterização da condição de Segurado Especial, em função da outorga em parceria/meação/comodato de mais de 50% da propriedade e/ou não exercício de atividade rural por outorgante/outorgado, em desacordo com o disposto no inciso I, §8º, art. 11 da Lei nº 8.213/91
+SUBTITULO::Recebimento de Benefício de Prestação Continuada - BPC
+Da descaracterização da condição de Segurado Especial, em função do recebimento de Benefício de Prestação Continuada - BPC no período de
+SUBTITULO::Não houve a indenização de período reconhecido
+Da não indenização de período comprovado a partir de Novembro/1991, nos termos do §2º, art. 55 da Lei nº 8.213/91, e inciso II, art. 215 da Instrução Normativa nº 128/2022
+SUBTITULO::Não apresentou Autodeclaração do Trabalhador Rural
+De não ter sido apresentada Autodeclaração do Segurado Especial, devidamente preenchida e assinada, nos moldes dos Anexos VIII/IX/X da Instrução Normativa nº 128/2022
+
+TITULO::Exigência(s)
+Situação e opções para Exigência(s).
+
+TITULO::Procedimento(s)
+Situação e opções para Procedimento(s).
+SUBTITULO::Realização de Avaliação Social
+O(a) Requerente foi submetido(a) a Avaliação Social, que foi concluída com parecer positivo
+SUBTITULO::Incluir texto sobre comunicação de agendamento posterior ao(à) Requerente
+Houve a marcação da opção: Incluir texto sobre comunicação de agendamento posterior ao(à) Requerente.
+SUBTITULO::Realização de Perícia Médica
+O(a) Requerente foi submetido(a) a avaliação da Perícia Médica, que foi concluída com parecer positivo
+SUBTITULO::Avaliação Conjunta - Social e Médico-Pericial
+O(a) Requerente foi submetido(a) a Avaliação Conjunta Biopsicossocial - Social e Médico-Pericial, que concluiu por não reconhecer sua deficiência, ou que a mesma tenha se mantido até a Data de Entrada do Requerimento - DER ou de implementação dos requisitos para o benefício, nos termos do arts. 70-A e 70-D do Decreto nº 3.048/99
+SUBTITULO::J.A. - Justificação Administrativa
+Houve o processamento de Justificação Administrativa, que após análise conclusiva quanto à sua forma e mérito, foi considerada ineficaz para a comprovação pretendida, nos termos dos arts. 93 e 94 da Portaria Dirben/INSS nº 993/2022 (Livro IV - Processo Administrativo Previdenciário)
+SUBTITULO::Encontro de Contas
+Houve a realização de Encontro de Contas com benefício indevido/incompatível, que resultou em Débito - Consignação no valor de R$
+
+TITULO::Ação Civil Pública (ACP)
+Houve a utilização da Ação Civil Pública (ACP).
+SUBTITULO::Ação Civil Pública (ACP)
+Houve a utilização da Ação Civil Pública.
+
+TITULO::Extensão da Qualidade de Segurado (Período de Graça)
+Situação da extensão da manutenção da qualidade de segurado.
+SUBTITULO::Acréscimo de 12 meses por Desemprego
+Houve o acréscimo de 12 meses ao prazo de manutenção da qualidade de segurado, em razão da condição de desempregado(a) comprovada por registro em órgão próprio.
+SUBTITULO::Não houve acréscimo (Desemprego)
+Não houve o acréscimo de 12 meses, em razão de não ter sido comprovada a condição de desempregado(a) por registro em órgão próprio.
+SUBTITULO::Acréscimo de 12 meses por 120 Contribuições
+Houve o acréscimo de 12 meses ao prazo de manutenção da qualidade de segurado, em razão de ter somado mais de 120 contribuições mensais sem perda da qualidade.
+SUBTITULO::Não houve acréscimo (120 Contribuições)
+Não houve o acréscimo de 12 meses, em razão de não ter somado mais de 120 contribuições mensais sem perda da qualidade.
+SUBTITULO::Auxílio-Acidente não considerado para manutenção da Qualidade de Segurado
+Não houve o aproveitamento do benefício de Auxílio-Acidente para manutenção da qualidade de segurado, nos termos do inc. I, art. 13 do Decreto nº 3.048/99
+
+TITULO::Alterações de DER e Espécie
+Manifestação do requerente quanto a adaptações na concessão.
+SUBTITULO::Alteração de Espécie Autorizada
+Houve a alteração da Espécie do Benefício, com a autorização do(a) Requerente.
+SUBTITULO::Requerente NÃO autorizou a alteração da Espécie do Benefício
+Não houve a alteração da Espécie do Benefício, em razão da não autorização pelo(a) Requerente, nos termos do § único, art. 176-E do Decreto nº 3.048/99
+SUBTITULO::Reafirmação da DER Autorizada
+Houve a reafirmação da Data de Entrada do Requerimento - DER para o dia em que completou o direito ao benefício, com a autorização do(a) Requerente.
+SUBTITULO::Requerente NÃO autorizou a reafirmação da DER
+Não houve a reafirmação da Data de Entrada do Requerimento - DER para o dia em que completaria o direito ao benefício, em razão da manifestação expressa em contrário do(a) Requerente, nos termos do art. 176-D do Decreto nº 3.048/99
+SUBTITULO::DER Não Alterada (Falta de requisitos)
+Não houve a reafirmação da DER, considerando que o(a) Requerente ainda não completaria os requisitos para a concessão do benefício.
+
+TITULO::Outros Procedimentos e Ajustes
+Situação e opções adicionais.
+SUBTITULO::Houve o aproveitamento parcial dos períodos na CTC
+Houve o aproveitamento parcial dos períodos de contribuição, conforme indicado pelo Requerente, nos termos do §11, art. 130 do Decreto nº 3.048/99:
+SUBTITULO::Considerados documentos não autenticados / cópias simples
+Foram considerados documentos de cópia simples, cuja apresentação dos originais para fins de autenticação foi dispensada, nos termos do §2º, art. 19-B do Decreto nº 3.048/99
+SUBTITULO::Houve o aproveitamento de processo anterior
+Houve o aproveitamento dos documentos e informações constantes no(s) processo(s) anterior(es) de nº
+SUBTITULO::Houve a realização de Consulta externa (DIRBEN, PFE, etc.)
+Houve a realização de consulta ao/à
+SUBTITULO::Requerente concordou com a concessão da Aposentadoria na sua forma Proporcional
+O(a) Requerente concordou com a concessão da Aposentadoria na sua forma Proporcional, nos termos do §2º, art. 319 da IN nº 128/2022
+SUBTITULO::Requerente NÃO concordou com a concessão da Aposentadoria na sua forma Proporcional
+O(a) Requerente não concordou com a concessão da Aposentadoria na sua forma Proporcional, nos termos do §2º, art. 319 da IN nº 128/2022
+SUBTITULO::Requerente desistiu expressamento de Benefício em manutenção incompatível
+Houve a desistência, pelo(a) Requerente, de outro Benefício em manutenção incompatível
+SUBTITULO::Houve cessação de benefício incompatível/com acumulação vedada
+Houve a cessação de benefício de Auxílio-Acidente, Auxílio-Suplementar ou Abono de Permanência em Serviço, de E/NB
+SUBTITULO::Informado salário-mínimo nas competências sem remuneração no CNIS
+Houve a informação do salário mínimo nas competências sem remuneração comprovada e/ou constante no Cadastro Nacional de Informações Sociais - CNIS, nos termos do §2º, art. 36 do Decreto nº 3.048/99
+SUBTITULO::Instituidor titular de BPC, que não garante Pensão
+Verificou-se que o(a) Instituidor(a) era titular de Benefício de Prestação Continuada - BPC, de caráter assistencial e pessoal, cessado com a morte de seu titular e sem a transmissão na forma de Pensão aos seus Dependentes, nos termos do art. 23 do Decreto nº 6.214/07
+SUBTITULO::Requerente deve solicitar resíduo de benefício(s)
+Verificou-se a existência de valor não recebido até a data do óbito do(a) Instituidor(a), referente ao período de
+SUBTITULO::Consignados valores recebidos pós Óbito
+Houve a marcação da opção: Consignados valores recebidos pós Óbito.
+SUBTITULO::Requerente pode interpor Recurso
+Conclui-se pela possibilidade de interposição de Recurso pelo(a) Requerente, caso não concorde com a sua conclusão e em até 30 dias após sua ciência, através do serviço correspondente no Meu INSS ou pelo telefone 135
