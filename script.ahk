@@ -24,7 +24,7 @@ Global DadosOrdem := []
 Global G_Exig := unset, LV_Exig, Prev_Exig, Nome_Exig, Dados_Exig, Drop_Exig
 Global G_Ana := unset, Drop_Ana, Prev_Ana, Nome_Ana, Dados_Ana, Checks_Ana := []
 Global MenuGui := unset
-Global G_Edit := unset, Busca_Ed, LV_Titulos, Titulo_Edit, Texto_Edit, LV_Arquivos, LV_Partes, TopicoCarregado := []
+Global G_Edit := unset, Busca_Ed, LV_Titulos, Titulo_Edit, Texto_Edit, LV_Arquivos, LV_Partes := unset, TopicoCarregado := []
 Global G_Conf := unset, Busca_Conf, LV_Gatilhos, LV_Alvos, Edit_RegrasAtuais
 Global G_NovoT := unset, Drop_NT_Arq, Drop_NT_Aba, Edit_NT_Tit, Edit_NT_Txt
 Global G_Ord := unset, Drop_Ord_Arq, LB_Ord_Abas, LB_Ord_Tops, LB_Ord_Subs
